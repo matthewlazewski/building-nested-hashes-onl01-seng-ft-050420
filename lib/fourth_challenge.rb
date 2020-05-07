@@ -16,7 +16,6 @@ def fourth_challenge
       ]
    }
 }
-
-  
-
 end
+
+epic_tragedy[:capulet][:hero][:status] = "dead"
